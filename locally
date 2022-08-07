@@ -1,0 +1,6 @@
+locally:
+adduser deploy
+
+Add to sudo:
+# Deploy
+deploy ALL=(ALL) NOPASSWD:ALL
